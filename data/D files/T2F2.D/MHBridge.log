@@ -1,0 +1,26 @@
+Agilent QuantConsole Version B.08.00 (8.0.598.0)
+Copyright (C) Agilent Technologies, Inc. 2016. All rights reserved.
+
+dataPathName=D:\MassHunter\GCMS\1\data\Mariana\AlkenylphenolsJan12
+datamethp=D:\MassHunter\GCMS\1\methods
+datamethf=Piper1.M
+default daBatchPathName=D:\MassHunter\GCMS\1\data\Mariana\AlkenylphenolsJan12
+actual daBatchPathName=D:\MassHunter\GCMS\1\data\Mariana\AlkenylphenolsJan12
+default daBatchFileName=AlkenylphenolsJan12.batch.bin
+actual daBatchFileName=2022 Jan 12 1249 Piper1.M.batch.bin
+automationReturnPath=D:\MassHunter\GCMS\1\data\Mariana\AlkenylphenolsJan12\T2F2.D
+automationReturnFile=QuantAutomationReturn.xml
+Automation directory exists? :True
+Full Path for return file D:\MassHunter\GCMS\1\data\Mariana\AlkenylphenolsJan12\T2F2.D\QuantAutomationReturn.xml
+Automation file exists? :True
+deleting the existing batch file
+Create batch
+Import samples
+Start method edit
+Importing from methodD:\MassHunter\GCMS\1\methods\Piper1.M
+Apply method
+Clear method
+End method edit
+Quantitate batch
+save batch table
+close batch table

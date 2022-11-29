@@ -1,0 +1,577 @@
+<?xml version="1.0" standalone="yes"?>
+<AuditTrailDataSet xmlns="http://tempuri.org/AuditTrailDataSet.xsd">
+  <AuditTrailEntry>
+    <ID>0</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-23T11:17:14.4898562-05:00</TimeStamp>
+    <Comment>Updated the GC method settings for D:\MassHunter\GCMS\1\methods\default.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>1</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-23T11:17:15.4969908-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated Method Information for default.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>2</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-29T16:15:33.8157661-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated Method Information for Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>3</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-29T16:15:33.8157661-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated Run Control Method Information: Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>4</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-29T16:15:34.0130044-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated the GC method settings for D:\MassHunter\GCMS\1\methods\Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>5</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-29T16:35:09.0195664-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated the GC method settings for D:\MassHunter\GCMS\1\methods\Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>6</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-29T16:35:09.0722204-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated MSD597x Method Parameters: Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>7</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-08-29T16:44:14.160045-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated the GC method settings for D:\MassHunter\GCMS\1\methods\Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>8</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2017-10-09T14:20:48.7915751-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated MSD597x Method Parameters: Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>9</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2018-04-30T15:46:10.6204887-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated the GC method settings for D:\MassHunter\GCMS\1\methods\Piper1.M</Comment>
+  </AuditTrailEntry>
+  <AuditTrailEntry>
+    <ID>10</ID>
+    <ComputerName>DESKTOP-ORJEECV</ComputerName>
+    <User>system</User>
+    <TimeStamp>2018-05-02T15:35:38.1191383-05:00</TimeStamp>
+    <Reason>none defined</Reason>
+    <Comment>Updated MSD597x Method Parameters: Piper1.M</Comment>
+  </AuditTrailEntry>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>0</LoggableModificationID>
+    <ChangeDescription>Oven Equilibration Time changed: 0.25 min -&gt; 3 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>1</LoggableModificationID>
+    <ChangeDescription>Oven Program changed: 45 °C for 2.25 min -&gt; 200 °C for 0 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>2</LoggableModificationID>
+    <ChangeDescription>Oven Program Post Run changed: 70 °C -&gt; 50 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>3</LoggableModificationID>
+    <ChangeDescription>Oven Program[1] deleted.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>4</LoggableModificationID>
+    <ChangeDescription>Oven Program changed: 0 min (Post Run) 70 °C -&gt; 0 min (Post Run) 50 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>5</LoggableModificationID>
+    <ChangeDescription>Column #1 Name changed: Agilent 19091S-433 -&gt; .</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>6</LoggableModificationID>
+    <ChangeDescription>Column #1 Serial Number changed: 93.92873 -&gt; .</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>7</LoggableModificationID>
+    <ChangeDescription>Column #1 Max Temperature changed: 325 °C -&gt; 425 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>8</LoggableModificationID>
+    <ChangeDescription>Column #1 (Initial) changed: 45 °C -&gt; 200 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>9</LoggableModificationID>
+    <ChangeDescription>Column #1 Pressure changed: 9.4664 psi -&gt; 9.8214 psi.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>10</LoggableModificationID>
+    <ChangeDescription>Column #1 Flow changed: 1.2 mL/min -&gt; 0.63432 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>11</LoggableModificationID>
+    <ChangeDescription>Column #1 Holdup Time changed: 1.2555 min -&gt; 1.6206 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>12</LoggableModificationID>
+    <ChangeDescription>Column #1 Control Mode changed: Constant Flow -&gt; Constant Pressure.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>13</LoggableModificationID>
+    <ChangeDescription>Column #1 Program changed: 
+&lt;&lt;Flow Program                                 On
+    1.2 mL/min for 0 min
+Run Time                                     6.125 min&gt;&gt; -&gt; 
+&lt;&lt;Pressure Program                             On
+    9.8214 psi for 0 min
+Run Time                                     6.125 min&gt;&gt;.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>14</LoggableModificationID>
+    <ChangeDescription>Front Inlet Mode changed: Pulsed Splitless -&gt; Splitless.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>15</LoggableModificationID>
+    <ChangeDescription>Front Inlet Heater changed: On 250 °C -&gt; On 200 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>16</LoggableModificationID>
+    <ChangeDescription>Front Inlet Pressure changed: On 9.4667 psi -&gt; On 9.8214 psi.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>17</LoggableModificationID>
+    <ChangeDescription>Front Inlet Gas Saver changed: On    30 After 2 min -&gt; Off.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>18</LoggableModificationID>
+    <ChangeDescription>Front Inlet Injection Pulse Pressure deleted.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>19</LoggableModificationID>
+    <ChangeDescription>Front Inlet Purge Flow to Split Vent changed: 100 mL/min at 1 min -&gt; 15 mL/min at 0 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>20</LoggableModificationID>
+    <ChangeDescription>Valve 1 Name changed: ? -&gt; .</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>21</LoggableModificationID>
+    <ChangeDescription>Temperature Setpoint changed: On -&gt; Off.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>0</AuditLogEntryID>
+    <LoggableModificationID>22</LoggableModificationID>
+    <ChangeDescription>Temperature (Initial) changed: 280 °C -&gt; 0 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>1</AuditLogEntryID>
+    <LoggableModificationID>23</LoggableModificationID>
+    <ChangeDescription>Method Comment changed from This is the default method of Installation Checkout. to This is the default method</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>2</AuditLogEntryID>
+    <LoggableModificationID>24</LoggableModificationID>
+    <ChangeDescription>Copy Method With Data changed from False to True</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>2</AuditLogEntryID>
+    <LoggableModificationID>25</LoggableModificationID>
+    <ChangeDescription>Method Comment changed from This is the default method to Dyer Lab Piper amide method translated for new system and alkenylphenol analysis</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>3</AuditLogEntryID>
+    <LoggableModificationID>26</LoggableModificationID>
+    <ChangeDescription>Injection Source changed from ManualInjection to AutomaticInjection</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>27</LoggableModificationID>
+    <ChangeDescription>Column #1 Name changed:  -&gt; Agilent 19091S-433UI.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>28</LoggableModificationID>
+    <ChangeDescription>Column #1 Serial Number changed:  -&gt; HP-5MS_1.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>29</LoggableModificationID>
+    <ChangeDescription>Column #1 Max Temperature changed: 425 °C -&gt; 325 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>30</LoggableModificationID>
+    <ChangeDescription>Column #1 Pressure changed: 19.026 psi -&gt; 12.6 psi.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>31</LoggableModificationID>
+    <ChangeDescription>Column #1 Flow changed: 2.3373 mL/min -&gt; 1.5314 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>32</LoggableModificationID>
+    <ChangeDescription>Column #1 Holdup Time changed: 0.89961 min -&gt; 1.1114 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>33</LoggableModificationID>
+    <ChangeDescription>Column #1 Pressure changed: 19.026 psi for 0 min -&gt; 12.6 psi for 0 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>34</LoggableModificationID>
+    <ChangeDescription>Front Injector Solvent A Washes (PreInj) changed: 1 -&gt; 2.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>35</LoggableModificationID>
+    <ChangeDescription>Front Injector Solvent A Washes (PostInj) changed: 0 -&gt; 4.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>36</LoggableModificationID>
+    <ChangeDescription>Front Injector Solvent B Washes (PreInj) changed: 0 -&gt; 2.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>37</LoggableModificationID>
+    <ChangeDescription>Front Injector Sample Washes changed: 1 -&gt; 2.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>38</LoggableModificationID>
+    <ChangeDescription>Front Injector Sample Wash Volume changed: 1 μL -&gt; 2 μL.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>39</LoggableModificationID>
+    <ChangeDescription>Front Injector Sample Pumps changed: 4 -&gt; 3.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>40</LoggableModificationID>
+    <ChangeDescription>Front Inlet Mode changed: Splitless -&gt; Split.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>41</LoggableModificationID>
+    <ChangeDescription>Front Inlet Heater changed: On 250 °C -&gt; On 280 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>42</LoggableModificationID>
+    <ChangeDescription>Front Inlet Pressure changed: On 19.026 psi -&gt; On 12.6 psi.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>43</LoggableModificationID>
+    <ChangeDescription>Front Inlet Gas Saver changed: Off -&gt; On    20 After 2 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>44</LoggableModificationID>
+    <ChangeDescription>Front Inlet Split Ratio added. 30:1</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>45</LoggableModificationID>
+    <ChangeDescription>Front Inlet Split Flow added. 30:1</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>4</AuditLogEntryID>
+    <LoggableModificationID>46</LoggableModificationID>
+    <ChangeDescription>Front Inlet Purge Flow to Split Vent deleted.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>47</LoggableModificationID>
+    <ChangeDescription>Oven Equilibration Time changed: 3 min -&gt; 0.5 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>48</LoggableModificationID>
+    <ChangeDescription>Oven Program changed: 45 °C for 0 min -&gt; 50 °C for 1 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>49</LoggableModificationID>
+    <ChangeDescription>Oven Program[1] added. then 20 °C/min to 275 °C for 5 min</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>50</LoggableModificationID>
+    <ChangeDescription>Column #1 (Initial) changed: 45 °C -&gt; 50 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>51</LoggableModificationID>
+    <ChangeDescription>Column #1 Flow changed: 1.5314 mL/min -&gt; 1.4918 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>52</LoggableModificationID>
+    <ChangeDescription>Column #1 Holdup Time changed: 1.1114 min -&gt; 1.1233 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>53</LoggableModificationID>
+    <ChangeDescription>Front Inlet Split Flow changed: 45.942 mL/min -&gt; 44.754 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>54</LoggableModificationID>
+    <ChangeDescription>Temperature Setpoint changed: Off -&gt; On.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>5</AuditLogEntryID>
+    <LoggableModificationID>55</LoggableModificationID>
+    <ChangeDescription>Temperature (Initial) changed: 250 °C -&gt; 280 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>6</AuditLogEntryID>
+    <LoggableModificationID>56</LoggableModificationID>
+    <ChangeDescription>Acquisition Type changed from Scan Only to SIM and Scan</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>6</AuditLogEntryID>
+    <LoggableModificationID>57</LoggableModificationID>
+    <ChangeDescription>Mode changed from &lt;empty string&gt; to None</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>6</AuditLogEntryID>
+    <LoggableModificationID>58</LoggableModificationID>
+    <ChangeDescription>Stabilization Duration (min) changed from 10 to 10</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>6</AuditLogEntryID>
+    <LoggableModificationID>59</LoggableModificationID>
+    <ChangeDescription>There is 1 difference for SIM Time Segment with start time 3.000 minutes:</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>6</AuditLogEntryID>
+    <LoggableModificationID>60</LoggableModificationID>
+    <ChangeDescription> -- Added: SIMIon (m/z 280, dwell 100, label , plotindex 1)</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>61</LoggableModificationID>
+    <ChangeDescription>Oven Equilibration Time changed: 3 min -&gt; 0.5 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>62</LoggableModificationID>
+    <ChangeDescription>Oven Program changed: 45 °C for 0 min -&gt; 50 °C for 1 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>63</LoggableModificationID>
+    <ChangeDescription>Oven Program[1] added. then 20 °C/min to 275 °C for 5 min</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>64</LoggableModificationID>
+    <ChangeDescription>Column #1 (Initial) changed: 45 °C -&gt; 50 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>65</LoggableModificationID>
+    <ChangeDescription>Column #1 Flow changed: 1.5314 mL/min -&gt; 1.4918 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>66</LoggableModificationID>
+    <ChangeDescription>Column #1 Holdup Time changed: 1.1114 min -&gt; 1.1233 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>67</LoggableModificationID>
+    <ChangeDescription>Front Inlet Split Flow changed: 45.942 mL/min -&gt; 44.754 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>68</LoggableModificationID>
+    <ChangeDescription>Temperature Setpoint changed: Off -&gt; On.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>7</AuditLogEntryID>
+    <LoggableModificationID>69</LoggableModificationID>
+    <ChangeDescription>Temperature (Initial) changed: 250 °C -&gt; 280 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>8</AuditLogEntryID>
+    <LoggableModificationID>70</LoggableModificationID>
+    <ChangeDescription>Solvent Delay In Minutes changed from 3 to 3.2</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>8</AuditLogEntryID>
+    <LoggableModificationID>71</LoggableModificationID>
+    <ChangeDescription>Stabilization Duration (min) changed from 10 to 10</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>8</AuditLogEntryID>
+    <LoggableModificationID>72</LoggableModificationID>
+    <ChangeDescription>Deleted: Scan Time Segment: (time 3, start mass 50, end mass 550, threshold 150, samples 4)</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>8</AuditLogEntryID>
+    <LoggableModificationID>73</LoggableModificationID>
+    <ChangeDescription>Added: Scan Time Segment: (time 3.2, start mass 50, end mass 550, threshold 150, samples 4)</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>8</AuditLogEntryID>
+    <LoggableModificationID>74</LoggableModificationID>
+    <ChangeDescription>There is 1 difference for SIM Time Segment with start time 3.200 minutes:</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>8</AuditLogEntryID>
+    <LoggableModificationID>75</LoggableModificationID>
+    <ChangeDescription> -- Start Time changed from 3 to 3.2</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>76</LoggableModificationID>
+    <ChangeDescription>Oven Program changed: 40 °C for 2 min -&gt; 50 °C for 1 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>77</LoggableModificationID>
+    <ChangeDescription>Oven Program Post Run changed: 70 °C -&gt; 50 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>78</LoggableModificationID>
+    <ChangeDescription>Oven Program[1] changed: then 10 °C/min to 200 °C for 10 min -&gt; then 20 °C/min to 275 °C for 5 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>79</LoggableModificationID>
+    <ChangeDescription>Oven Program[2] deleted.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>80</LoggableModificationID>
+    <ChangeDescription>Oven Program changed: 0 min (Post Run) 70 °C -&gt; 0 min (Post Run) 50 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>81</LoggableModificationID>
+    <ChangeDescription>Column #1 (Initial) changed: 40 °C -&gt; 50 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>82</LoggableModificationID>
+    <ChangeDescription>Column #1 Pressure changed: 5.9529 psi -&gt; 12.6 psi.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>83</LoggableModificationID>
+    <ChangeDescription>Column #1 Flow changed: 0.9 mL/min -&gt; 1.4918 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>84</LoggableModificationID>
+    <ChangeDescription>Column #1 Holdup Time changed: 1.4534 min -&gt; 1.1233 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>85</LoggableModificationID>
+    <ChangeDescription>Column #1 Control Mode changed: Constant Flow -&gt; Constant Pressure.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>86</LoggableModificationID>
+    <ChangeDescription>Column #1 Program changed: 
+&lt;&lt;Flow Program                                 On
+    0.9 mL/min for 0 min
+Run Time                                     47 min&gt;&gt; -&gt; 
+&lt;&lt;Pressure Program                             On
+    12.6 psi for 0 min
+Run Time                                     47 min&gt;&gt;.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>87</LoggableModificationID>
+    <ChangeDescription>Front Inlet Heater changed: On 100 °C -&gt; On 280 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>88</LoggableModificationID>
+    <ChangeDescription>Front Inlet Pressure changed: On 5.9529 psi -&gt; On 12.6 psi.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>89</LoggableModificationID>
+    <ChangeDescription>Front Inlet Gas Saver changed: On    20 After 0 min -&gt; On    20 After 2 min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>90</LoggableModificationID>
+    <ChangeDescription>Front Inlet Split Ratio changed: 1:1 -&gt; 30:1.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>91</LoggableModificationID>
+    <ChangeDescription>Front Inlet Split Flow changed: 0.9 mL/min -&gt; 44.754 mL/min.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>9</AuditLogEntryID>
+    <LoggableModificationID>92</LoggableModificationID>
+    <ChangeDescription>Temperature (Initial) changed: 100 °C -&gt; 280 °C.</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>10</AuditLogEntryID>
+    <LoggableModificationID>93</LoggableModificationID>
+    <ChangeDescription>Acquisition Type changed from SIM and Scan to Scan Only</ChangeDescription>
+  </LoggableModification>
+  <LoggableModification>
+    <AuditLogEntryID>10</AuditLogEntryID>
+    <LoggableModificationID>94</LoggableModificationID>
+    <ChangeDescription>Stabilization Duration (min) changed from 10 to 10</ChangeDescription>
+  </LoggableModification>
+</AuditTrailDataSet>

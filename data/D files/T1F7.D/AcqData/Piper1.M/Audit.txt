@@ -1,0 +1,207 @@
+﻿D:\MassHunter\GCMS\1\METHODS\DEFAULT.M\Audit.txt 
+Created Tue Aug 22 10:38:03 2017
+
+
+ Modified : Tue Aug 22 10:38:03 2017
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\METHODS\Install.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Wed Aug 23 11:17:14 2017
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\default.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Tue Aug 29 16:35:07 2017
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\Piper1.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Tue Aug 29 16:44:12 2017
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\Piper1.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Wed Sep 06 10:40:06 2017
+ Event    :  GC Scale Factor changed; no cal table modification
+ Message  : New scale factor: 1
+ Severity : 2
+
+
+ Modified : Mon Oct 09 14:20:47 2017
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\Piper1.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Fri Jan 26 11:35:32 2018
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\Physalis.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Fri Apr 06 11:35:45 2018
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\AP.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Mon Apr 30 15:46:09 2018
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\Piper1.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Wed May 02 15:22:54 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 1 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\1.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:24:42 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 2 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\2.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:26:13 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 3 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\3.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:26:50 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 4 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\4.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:27:22 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 5 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\5.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:28:20 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 6 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\6.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:28:51 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 7 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\7.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:29:10 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 8 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\8.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:29:34 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 9 using Results from D:\MassHunter\GCMS\1\data\Lauren\043018\9.D
+ Severity : 2
+
+
+ Modified : Wed May 02 15:33:09 2018
+ Event    : Save Method
+ Message  : Save Method D:\MassHunter\GCMS\1\methods\Piper1.M from DA menu.
+ Severity : 1
+
+
+ Modified : Wed May 02 15:34:23 2018
+ Event    : Save Method
+ Message  : Save Method D:\MassHunter\GCMS\1\methods\Piper1.M from DA menu.
+ Severity : 1
+
+
+ Modified : Wed May 02 15:35:36 2018
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\Piper1.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Wed May 02 15:37:39 2018
+ Event    : Quantitation Values 
+ Message  : Changed p_format from 0 to 1
+ Severity : 1
+
+
+ Modified : Wed May 02 15:37:42 2018
+ Event    : Save Method
+ Message  : Save Method D:\MassHunter\GCMS\1\methods\Piper1.M from DA menu.
+ Severity : 1
+
+
+ Modified : Wed May 16 17:45:33 2018
+ Event    : Global Update
+ Message  : Updating: Converting to SemiQuant Method
+ Severity : 1
+
+
+ Modified : Wed May 16 17:53:16 2018
+ Event    : Update Calibration 
+ Message  : Updated Calibration level 1 using Results from D:\MassHunter\GCMS\1\data\Lauren\051518\2.D
+ Severity : 2
+
+
+ Modified : Wed May 16 18:01:39 2018
+ Event    : Save Method
+ Message  : Save Method D:\MassHunter\GCMS\1\methods\Piper1.M from DA menu.
+ Severity : 1
+
+
+ Modified : Mon Feb 18 12:30:24 2019
+ Event    : Save Method
+ Message  : Save Method D:\MassHunter\GCMS\1\methods\Piper1.M from DA menu.
+ Severity : 1
+
+
+ Modified : Tue Feb 19 12:56:44 2019
+ Event    : Global Update
+ Message  : Updating: gup_ShiftRetTime
+ Severity : 1
+
+
+ Modified : Mon Apr 22 14:32:47 2019
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\VOC.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Mon Jul 29 15:10:23 2019
+ Event    : Save Method
+ Message  : Save Method D:\MassHunter\GCMS\1\methods\Piper1.M from DA menu.
+ Severity : 1
+
+
+ Modified : Tue Jul 30 10:59:02 2019
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\VOC_20190730.M
+ Why      : Instrument Control method save
+ Severity : 1
+
+
+ Modified : Fri Sep 24 09:20:24 2021
+ Event    : Save Method
+ Message  : Save Method to D:\MassHunter\GCMS\1\methods\Piper25min.M
+ Why      : Instrument Control method save
+ Severity : 1
+
